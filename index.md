@@ -1,0 +1,40 @@
+<style>
+    .column {
+        float: left;
+        width: 25%;
+    }
+    /* Clear floats after the columns */
+    
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+</style>
+
+<img src="https://www.villa-mayari.com/wp-content/themes/villa-mayari/assets/images/logo-villa-mayari.svg" alt="" width=15%>
+<div class="row">
+    <div class="column airbnb-embed-frame" data-id="44892788" data-view="home" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.fr/rooms/44892788?check_in=2023-06-13&amp;check_out=2023-06-23&amp;guests=1&amp;adults=3&amp;s=66&amp;source=embed_widget">Voir
+            sur Airbnb</a><a href="https://www.airbnb.fr/rooms/44892788?check_in=2023-06-13&amp;check_out=2023-06-23&amp;guests=1&amp;adults=3&amp;s=66&amp;source=embed_widget" rel="nofollow">Chalet Noisetier, nature, calme et biodiversité</a>
+        <script async="" src="https://www.airbnb.fr/embeddable/airbnb_jssdk"></script>
+    </div>
+
+    <div class="column airbnb-embed-frame" data-id="37038791" data-view="home" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.fr/rooms/37038791?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">Voir sur
+            Airbnb</a><a href="https://www.airbnb.fr/rooms/37038791?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Chalet Châtaignier, nature, calme et biodiversité</a>
+        <script async="" src="https://www.airbnb.fr/embeddable/airbnb_jssdk"></script>
+    </div>
+
+    <div class="column airbnb-embed-frame" data-id="36841895" data-view="home" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.fr/rooms/36841895?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">Voir sur
+            Airbnb</a><a href="https://www.airbnb.fr/rooms/36841895?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Chalet Frêne, dans un bois face aux Pyrénées</a>
+        <script async="" src="https://www.airbnb.fr/embeddable/airbnb_jssdk"></script>
+    </div>
+
+    <div class="column airbnb-embed-frame" data-id="37170817" data-view="home" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.fr/rooms/37170817?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">Voir sur
+            Airbnb</a><a href="https://www.airbnb.fr/rooms/37170817?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Chalet Merisier surplombant un bois</a>
+        <script async="" src="https://www.airbnb.fr/embeddable/airbnb_jssdk"></script>
+    </div>
+</div>
+
+# Mode d'emploi
+
+- [Les notes](https://hackmd.io/BS4775jiT5GBPwVmgbmFBQ?edit)
